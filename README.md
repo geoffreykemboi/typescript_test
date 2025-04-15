@@ -1,4 +1,4 @@
 # TYPESCRIPT TEST CLASS
 
 
-git push -u origin main
+https://github.com/geoffreykemboi/typescript_test
